@@ -1,0 +1,6 @@
+*{
+    direction: rtl !important;
+}
+table td, table th{
+    text-align: center !important;
+}
